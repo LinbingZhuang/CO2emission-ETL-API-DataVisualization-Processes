@@ -1,5 +1,5 @@
 # CO2 Emission in Guangdong, China.
-Demonstration of an ETL, API, and Data Visualization Processes using Co2 Emission Data of Guangdong Province in China.
+Demonstration of an ETL, API, and Data Visualization Processes using CO2 Emission Data of Guangdong Province in China.
 
 
 ![----------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
