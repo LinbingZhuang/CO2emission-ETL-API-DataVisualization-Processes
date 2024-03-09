@@ -1,4 +1,4 @@
-# Co2 Emission In Guangdong, China.
+# CO2 Emission in Guangdong, China.
 Demonstration of an ETL, API, and Data Visualization Processes using Co2 Emission Data of Guangdong Province in China.
 
 
