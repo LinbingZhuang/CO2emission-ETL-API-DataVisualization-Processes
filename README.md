@@ -19,13 +19,13 @@ This project demonstrates the ETL, API, and Visualization processes using the Gu
 <h2>2. Procedures</h2>
 
 <h3>ETL</h3>
-This process entails the creation of an algorithm that carries out the extraction, transformation, and Loading of the Co2 Emission data into a PostgreSQL database. The extraction of the data was carried out from a local folder after the data was downloaded in a csv fomat as there was no direct link to extract the data directly from the data platform. A transformation was carried out in order to clean the data into an acceptable format for upload into the database. The cleaned dataframe was merged into the shapefile of the counties before loading it as a GepJSON file into the PostgresSQL database.
+This process entails the creation of an algorithm that carries out the extraction, transformation, and Loading of the CO2 Emission data into a PostgreSQL database. The extraction of the data was carried out from a local folder after the data was downloaded in a csv fomat as there was no direct link to extract the data directly from the data platform. A transformation was carried out in order to clean the data into an acceptable format for upload into the database. The cleaned dataframe was merged into the shapefile of the counties before loading it as a GepJSON file into the PostgresSQL database.
 
 <h3>API</h3>
 For the Application Programming Interface (API), an algorithm was developed using the Python programming language, to get/retrieve information from the database to external users who seek to obtain allowable data, and return the results in a json format. 
 
 <h3>Visualization</h3>
-Leaflet is used for making the interactive map. A map displaying co2 emission of 120 counties in Guangdong is shown in the webpage. The information of county name, city name, area, co2 emission in different years and average emission are in the pop-up window when users click or search the counties.
+Leaflet is used for making the interactive web map. A map displaying CO2 emission of 120 counties in Guangdong is shown in the webpage. The information of county name, city name, area, CO2 emission in different years and average emission are in the pop-up window when users click or search the counties.
 </br>
 </br>
 
@@ -36,7 +36,7 @@ Leaflet is used for making the interactive map. A map displaying co2 emission of
 
 <!-- DATABASE -->
 <h2>3. Database</h2>
-A Database named Co2Emission was created in the PostgreSQL using the PgAdmin platform. An SQL code was designed to create a table in the public schema of the database for reception of the cleaned data that will be loaded automatically from the ETL process. The data, after cleaning was loaded in the PostgreSQL PostGIS using the python code.
+A Database named CO2Emission was created in the PostgreSQL using the PgAdmin platform. An SQL code was designed to create a table in the public schema of the database for reception of the cleaned data that will be loaded automatically from the ETL process. The data, after cleaning was loaded in the PostgreSQL PostGIS using the python code.
 <br>
 <br>
 <br>
@@ -59,7 +59,7 @@ A Database named Co2Emission was created in the PostgreSQL using the PgAdmin pla
 ![----------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
 <h2>4. Web Map</h2>
-This is an interactive map view window co2 emissions information can be obtained for each of the counties.
+This is an interactive map view window CO2 emissions information can be obtained for each of the counties.
 </br>
 </br>
 
