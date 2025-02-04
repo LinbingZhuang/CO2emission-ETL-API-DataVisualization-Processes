@@ -58,7 +58,7 @@ A Database named Co2Emission was created in the PostgreSQL using the PgAdmin pla
 
 ![----------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
-<h2>4. Map View Window</h2>
+<h2>4. Web Map</h2>
 This is an interactive map view window co2 emissions information can be obtained for each of the counties.
 </br>
 </br>
