@@ -63,7 +63,7 @@ This is an interactive map view window CO2 emissions information can be obtained
 </br>
 </br>
 
-[![Map View](03_Report_Refs/guangdong_leaflet_map.png "Map View")](https://linbing1065.github.io/)
+[![Map View](03_Report_Refs/guangdong_leaflet_map.png "Map View")]([https://linbing1065.github.io/](https://LinbingZhuang.github.io/Linbing1065.github.io/))
 Link：https://linbing1065.github.io/
 
 
